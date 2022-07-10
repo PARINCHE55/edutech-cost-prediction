@@ -1,0 +1,293 @@
+Institute,Course,Category,Mode,Level,Duration_Hours,Country,City,Certification_provided,Practice_Assignments,Doubt_Sessions,Internship_Provided,Placement_Assistance,rating,Recorded_videos,Trainer_Grade,Price
+Analytics Vidya,Data Science,Data Science,Online,Intermediate,500,India,None,Yes,Yes,,Yes,Yes,NA,Yes,High,225000
+Udemy,Web Development,Computer Science,Online,Intermediate,90,United Kingdom,Bedford,Yes,Yes,No,NO,No,4.6,Yes,High,3499
+Udemy,Dot net developer,Computer Science,Online,Intermediate,29.5,NA,NA,Yes,Yes,No,No,No,4.7,Yes,Medium,5200
+Udemy,Chief Financial Officer,Bussiness,Online,Intermediate,10.5,NA,NA,Yes,Yes,No,No,No,4.3,Yes,High,2299
+Udemy,Online Marketing,Bussiness,Online,Intermediate,16,NA,NA,Yes,Yes,No,No,No,4.5,Yes,High,2299
+Udemy,Ultimate AWS,IT,Online,Intermediate,27,NA,NA,Yes,Yes,No,No,No,,Yes,Medium,3499
+Udemy,Arduino Bootcamp,Engineering,Online,Intermediate,9.5,NA,NA,Yes,Yes,No,No,No,4.4,Yes,High,3499
+Udemy,Website Hacking,Computer Science,Online,Advance,10.5,NA,NA,Yes,Yes,No,No,No,4.6,Yes,Medium,3499
+Udemy,Microsoft Excel,IT,Online,Intermediate,10,NA,NA,Yes,No,No,No,No,4.5,Yes,High,2299
+Udemy,Mixing for Music Producers,Music,Online,Intermediate,6.5,NA,NA,Yes,Yes,No,No,No,4.6,Yes,Medium,1999
+Udemy,Calculus Master,Math,Online,Intermediate,12.5,NA,NA,Yes,Yes,No,No,No,4.7,Yes,Medium,3499
+Geeks for Geeks,Full Stack Development,Computer Science,Online,Intermediate,NA,NA,NA,Yes,Yes,No,No,Yes,5,Yes,Low,19999
+Geeks for Geeks,Amazon SDE Preparation ,IT,Online,Intermediate,NA,NA,NA,Yes,Yes,No,No,No,5,Yes,NA,1499
+Geeks for Geeks,DSA,IT,Online,Advance,NA,NA,NA,No,Yes,Yes,No,Yes,4.9,Yes,Medium,19999
+Geeks for Geeks,System Design,Computer Science,Online,Advance,NA,NA,NA,Yes,Yes,No,No,No,5,Yes,High,19999
+Geeks for Geeks,Data Science,Computer Science,Online,Intermediate,NA,NA,NA,Yes,Yes,No,No,Yes,NA,Yes,High,19999
+Geeks for Geeks,JAVA Backend Development,Computer Science,Online,Advance,NA,NA,NA,Yes,Yes,No,No,Yes,5,Yes,High,19999
+Geeks for Geeks,Competitive Programming ,Computer Science,Online,Advance,NA,NA,NA,Yes,Yes,No,No,Yes,4.9,Yes,High,19999
+Geeks for Geeks,Python,Computer Science,Online,Beginner,NA,NA,NA,Yes,Yes,No,No,No,4.5,Yes,Medium,1299
+Harvard University,Data Science,IT,Online,Beginner,16,Massachusetts,Cambridge,Yes,Yes,Yes,No,No,NA,Yes,High,7823
+Harvard University,Data Science,Data Analysis & Statistics,Online,Beginner,32,Massachusetts,Cambridge,Yes,Yes,Yes,No,No,NA,Yes,High,7823
+IBM,Machine Learning,Data Analysis and Statistics,Online,Beginner,30,India,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,7823
+Harvard University,Data Science,Data Science,Online,Beginner,16,Massachusetts,Cambridge,Yes,Yes,Yes,No,No,NA,Yes,High,11752
+IBM,Deep Learning,Data Analysis and Statistics,Online,Intermediate,20,India,Chennai,Yes,Yes,Yes,No,No,Na,Yes,High,7809
+IBM,Analyzing Data with Excel,Data Analysis and Statistics,Online,Beginner,15,India,Chennai,Yes,Yes,Yes,NO,No,NA,Yes,High,7817
+IBM,Data Science,Data Analysis and Statistics,Online,Intermediate,24,india,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,11766
+AdelaideX,Big Data Analytics,Computer Science,Online,Intermediate,100,Australia,Adelaide,Yes,Yes,Yes,No,No,NA,Yes,High,15713
+Udemy,Full Ethical Hacking,Ethical Hacking,Online,Beginner,14,India,Gurgaon,Yes,Yes,Yes,No,No,4.6,Yes,Medium,3499
+Udemy,Python,Pyhton Programming,Online,Advance,60,India,Gurgaon,Yes,Yes,Yes,No,No,4.7,Yes,Medium,3999
+Udemy,Machine Learning,Machine learning,Online,Intermediate,11,India ,Guragaon,Yes,Yes,Yes,No,No,4.7,Yes,Medium,3499
+IIT Bombay,Data Structures,Computer Science,Online,Intermediate,48,India,Bombay,Yes,Yes,Yes,No,No,NA,Yes,High,11775
+IIT Bombay,Shell Programming,Computer Science,Online,Beginner,30,India,Bombay,Yes,Yes,Yes,No,No,NA,Yes,High,10985
+IBM,Applied Bayesian for Analytics,Data Analysis Statistics,Online,Beginner,18,India,Bangalore,Yes,Yes,Yes,No,No,NA,Yes,High,11775
+IBM,Data Science,Data Analysis Statistics,Online,Intermediate,35,India,Bangalore,Yes,Yes,Yes,No,No,NA,Yes,High,11775
+AWS,Industrial IoT Fundamentals on AWS,Computer Science,Online,Beginner,24,India,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,3869
+Microsoft,Introduction to Data Analysis using Excel,Data Analysis Statistics,Online,Beginner,16,India,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,7818
+Microsoft,Analyzing Data with Excel,Business  Management,Online,Intermediate,24,India,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,7818
+AWS,AWS IoT,Computer Science,Online,Intermediate,20,India,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,7818
+Innomatics Research Labs,Data Science,IT,Online,Beginner,250,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,85000
+Social Prachar,Data Science,IT,Online,Beginner,150,India,Hyderabad,Yes,No,No,No,No,3,No,Medium,35000
+Digital Nest,Data Science,IT,Online,Beginner,120,India,Hyderabad,Yes,No,No,No,No,3.5,Yes,Medium,40000
+Innomatics Research Labs,Data Science,IT,Offline,Beginner,250,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,90000
+Qspiders,Java Full Stack,IT,Offline,Beginner,350,India,Pune,Yes,Yes,Yes,Yes,Yes,4,Yes,High,75000
+Prime Classes,Data Science,IT,Online,Beginner,180,India,Hyderabad,Yes,Yes,Yes,Yes,No,4,No,High,49000
+Aditi Digital Solution,Data Science,IT,Online,Beginner,240,India,Hyderabad,Yes,No,No,No,No,3.5,No,Low,40000
+Imarticus Learning,Data Science,IT,Offline,Beginner,300,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,215000
+Qspiders,Python Full stack,IT,Offline,Beginner,240,India,Pune,Yes,Yes,Yes,Yes,Yes,4,Yes,High,45000
+INSAID,Artificial Intelligence,IT,Online,Beginner,450,India,NA,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,350000
+Zipertec,Business Analyst,IT,Online,Beginner,80,India,NA,No,Yes,Yes,No,Yes,3.5,No,High,50000
+Valaxy Tech,AWS and devops engineer,IT,Online,Advance,90,India,Bengalore,Yes,Yes,Yes,No,Yes,4.7,Yes,High,25000
+Qspiders,Software Testing,IT,Offline,Advance,360,india,Bengalore,Yes,Yes,Yes,No,Yes,4,Yes,High,36000
+Gutsy ,Data analytics,IT,Offline,Beginner,140,India,Bengalore,Yes,Yes,Yes,No,Yes,3.5,Yes,Medium,25000
+Simplilearn,Automation Testing,IT,Online,Beginner,240,India,Bengalore,Yes,Yes,Yes,No,Yes,4,Yes,High,32000
+360DigiTMG,Data Science,Data Science,Offline,Beginner,200,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.1,Yes,High,33000
+Almabetter,Data Science,Data Science,Online,Beginner,244,Usa,,Yes,Yes,Yes,No,Yes,3.6,Yes,High,275000
+CloudyMl,Data Science,Data Science,Online,Beginner,300,India,Hyderabad,Yes,Yes,Yes,No,No,4.2,Yes,Medium,4000
+Tutedude,Data Science,Data Science,Online,Beginner,255,India,Delhi,Yes,Yes,Yes,Yes,No,3.8,Yes,Medium,3000
+NIIT,Data Science,Data Science,Offline,Beginner,200,India,Hyderabad,Yes,Yes,Yes,No,Yes,4,Yes,High,225000
+Typing teacher,English Typing,General,Online,Intermediate,10,India,India,Yes,No,No,No,No,3.5,No,High,1000
+NPTEL,Artificial Intelligence,AI,Online,Beginner,125,India,Hyderabad ,Yes,Yes,No,No,No,3,Yes,Medium,1000
+Coursera ,Philosophy ,Humanities,Online,Beginner,20,UK,Edinburgh ,Yes,Yes,No,No,No,5,Yes,High,0
+Velocity,Tableau,Analytics,Online,Beginner,20,india,pune,Yes,Yes,Yes,No,No,4,Yes,High,12000
+Udemy,HTML,Web Development,Online,Beginner,20,India,Usa,Yes,Yes,No,No,No,3,Yes,Medium,2000
+360DigiTMG,Data analytics,Analytics,Offline,Intermediate,200,India,Hyderabad ,Yes,Yes,Yes,No,Yes,3,Yes,Medium,28000
+cisco,Python,IT,Online,Beginner,12,Indian ,Hyderabad ,Yes,Yes,Yes,Yes,Yes,4,Yes,High,"30,000"
+NPTEL,Python,IT,Online,Beginner,125,India,Hyderabad ,Yes,Yes,No,No,No,2,No,Medium,1500
+Pantech,Python,IT,Online,Beginner,120,India,Hyderabad,Yes,Yes,No,Yes,No,3,Yes,High,1000
+cisco,cyber security,IT,Online,Intermediate,12,India,Hyderabad,Yes,No,No,No,Yes,4.5,No,High,0
+Udemy,Deep Learning,IT,Online,Beginner,22,India,Hyderabad,Yes,No,No,No,No,4.4,Yes,High,455
+Simplilearn,Web Development,Web Development,Online,Beginner,220,India,Hyerabad,Yes,Yes,Yes,Yes,Yes,4.1,Yes,High,36000
+Qspiders,Testing,Testing,Offline,Beginner,300,India,hyderabad,Yes,Yes,Yes,Yes,Yes,3.5,Yes,Medium,30000
+360DigiTMG,Data Science and AI,IT,Online,Beginner,500,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,60000
+Jspyders,Full Stack Development,IT,Offline,Beginner,500,India,Hyderabad,Yes,Yes,Yes,No,Yes,4.7,No,High,35000
+Scaler,Artificial Intelligence,IT,Online,Beginner,,India,Benguluru,Yes,,,No,Yes,4.5,Yes,High,
+Simplilearn,Business Analyst,IT,Online,Beginner,,India,Benguluru,Yes,,Yes,No,Yes,4.5,Yes,High,52000
+Jspyders,Testing,Testing,Offline,Beginner,,India,Hyderbad,Yes,,Yes,No,Yes,4.5,No,High,15000
+Udemy,Python,IT,Online,Beginner,30,USA,,Yes,No,No,No,No,4.5,Yes,High,3500
+Great Learning,Data Science and AI,IT,Online,Beginner,,,,Yes,Yes,Yes,No,Yes,4.5,Yes,High,300000
+Udemy,Blockchain,IT,Online,Beginner,30,USA,,Yes,No,No,No,No,4.5,Yes,High,3500
+Coursera ,Data analytics,IT,Online,Beginner,15,USA,,Yes,,No,No,No,4.5,Yes,High,8000
+Intellipaat,Data analytics,IT,Online,Advance,658,India,Bengaluru,Yes,,Yes,No,Yes,4.6,Yes,High,54000
+Udemy,cyber security,Network And Security,Online,Beginner,,USA,,Yes,,No,No,No,4.6,Yes,High,3500
+Simplilearn,Cloud Computing,IT,Online,Advance,,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.5,Yes,High,61000
+Udemy,Internet of Things Foundation,IT,Online,Beginner,6.5,USA,,Yes,No,No,No,No,4.4,Yes,High,3500
+Geeklearn,Data Science,Data science,Online,Beginner,,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.7,Yes,High,278000
+Scaler,Data Science,Data Science,Online,Beginner,,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.5,Yes,High,125000
+Nulearnedu,Data analytics,IT,Online,Advance,100000,India,Delhi,Yes,Yes,Yes,No,Yes,4.2,Yes,High,70000
+Zenclassofficial,Full Stack Development,IT,Online,Beginner,200,India,Delhi,Yes,Yes,Yes,No,Yes,4,Yes,High,89999
+Newtonschool,Full Stack Development,IT,Online,Advance,200,India,,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,80000
+Almabetter,Data Science,Data Science,Online,Beginner,60,India,Bengaluru,Yes,Yes,Yes,Yes,Yes,4.6,Yes,High,20000
+Edureka,Data Science,Data Science,Online,Advance,200,India,Delhi,Yes,Yes,Yes,No,Yes,4.4,Yes,High,40000
+Lets upgradde,Full Stack Development,IT,Online,Advance,210,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.5,Yes,High,90000
+Skillslash learn,Software Development,IT,Online,Advance,320,India,Mumbai,Yes,Yes,Yes,No,Yes,4.3,Yes,High,95000
+Miles education,Account,Non IT,Offline,Advance,100000,India,Pune,Yes,Yes,Yes,No,Yes,4.4,Yes,High,135000
+DV Analytics,Tableau,IT,Online,Advance,36,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.1,Yes,High,30000
+Imarticus Learning,Supply chain management,IT,Online,Advance,260,India,Mumbai,Yes,Yes,Yes,No,Yes,4.1,Yes,High,160000
+The IOT academy,Deep Learning,Data Science,Online,Advance,240,India,Noida,Yes,Yes,Yes,No,Yes,4.4,Yes,High,120000
+Uptop education,Business Analyst,Data Science,Online,Advance,160,India,Gurugram,Yes,Yes,Yes,No,Yes,4.5,Yes,High,60000
+Excelr,Data Science,Data Science,Online,Advance,160,India,Bengaluru,Yes,Yes,Yes,No,Yes,4.4,Yes,High,110000
+JanBask Training,Data Science,Data science,Online,Advance,80,India,Noida,Yes,Yes,Yes,No,Yes,3.9,Yes,High,29999
+Edubridge Learn,Data analytics,Data science,Online,Advance,560,India,Noida,Yes,Yes,Yes,No,Yes,4.3,Yes,High,55000
+Thriyam,Additive manufacturing,Manufacturing,Offline,Intermediate,30,India,Hyderabad,Yes,Yes,No,No,No,3,No,Low,3000
+Internshala,Auto Cad,Architecture,Online,Beginner,42,India,Hyderabad,Yes,Yes,Yes,No,No,4.3,Yes,Medium,5000
+Internshala,Digital Art,Design,Online,Beginner,42,India,Hyderabad,Yes,Yes,Yes,No,No,4.1,Yes,Medium,5000
+Coursera ,supervised machine learning,datascience,Online,Beginner,41,UK,Edinburgh ,Yes,Yes,No,No,No,5,Yes,High,0
+Simplilearn,Data Science,datascience,Online,Advance,450,india,bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,198004
+Udemy,DS transformers for NLP,datascience,Online,Beginner,12.5,India,Hyderabad,Yes,No,No,No,No,4.8,Yes,High,455
+besant technologies,Data Science,datascience,Online,Beginner,80,india,chennai,Yes,Yes,Yes,Yes,Yes,5,Yes,Medium,35000
+Imarticus Learning,Artificial Intelligence,datascience,Online,Intermediate,288,india,chennai,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,165000
+ACTE,Python,IT,Online,Beginner,40,india,bangalore,Yes,Yes,Yes,Yes,Yes,5,Yes,High,12000
+ACTE,Data Science,datascience,Online,Beginner,135,india,chennai,Yes,Yes,Yes,Yes,Yes,5,Yes,High,61600
+ACTE,Data Science,datascience,Online,Beginner,40,india,hyderabad,Yes,Yes,Yes,Yes,Yes,5,Yes,High,14000
+upGrad,Python,IT,Online,Beginner,96,india,bangalore,Yes,Yes,Yes,No,No,4.5,Yes,High,25000
+upGrad,Master of Science in Data Science,Datascience,Online,Beginner,270,india,bangalore,Yes,Yes,Yes,Yes,Yes,5,Yes,High,213300
+upGrad,Master of Science in Computer Science,IT,Online,Beginner,285,india,bangalore,Yes,Yes,Yes,Yes,Yes,5,Yes,High,201400
+upGrad,Advanced Certificate in Digital Marketing and Communication,IT,Online,Beginner,450,india,bangalore,Yes,Yes,Yes,Yes,Yes,5,Yes,High,179200
+Imarticus Learning,Data analytics,Datascience,Both,Intermediate,288,india,chennai,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,130000
+Imarticus Learning,POST GRADUATE PROGRAM IN CYBERSECURITY,IT,Both,Intermediate,396,india,chennai,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,132000
+besant technologies,Python,IT,Both,Beginner,180,india,chennai,Yes,No,Yes,Yes,Yes,5,Yes,Medium,12999
+besant technologies,Artificial Intelligence,IT,Both,Beginner,90,india,chennai,Yes,Yes,Yes,Yes,Yes,5,Yes,Medium,30000
+besant technologies,Dev ops certification training course,IT,Offline,Beginner,100,india,chennai,Yes,Yes,Yes,Yes,Yes,5,Yes,Medium,15999
+Imarticus Learning,SUPPLY CHAIN MANAGEMENT and ANALYTICS,IT,Online,Beginner,450,india,chennai,Yes,Yes,Yes,Yes,Yes,5,Yes,High,160000
+Simplilearn,Deep Learning,IT,Online,Beginner,450,india,bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,195000
+Simplilearn,Ethical Hacking Course,IT,Online,Beginner,450,india,bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,165000
+Iverson,Administrator Training CDP Private Cloud Base,Information technology,Online,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,"90,400"
+Iverson,Microsoft Azure IoT Developer,Information technology,Online,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,51000
+Iverson,Agile Project Management Foundation,Information technology,Online,Beginner,48,Malaysia,Kuala lumpur,Yes,No,No,No,No,4,Yes,High,68000
+Iverson,AIX Basics,Information technology,Online,Beginner,72,Malaysia,Kuala lumpur,Yes,No,No,No,No,3.5,Yes,High,"66,300"
+Iverson,Apache Spark Development,Information technology,Online,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,85000
+Iverson,Automation with Ansible and Ansible Tower,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,No,No,No,No,No,4.5,Yes,High,"90,000"
+Iverson,Blockchain,Information technology,Online,Beginner,48,Malaysia,Kuala lumpur,No,No,No,No,No,5,Yes,High,68000
+Iverson,Big Data Foundation,Information technology,Online,Beginner,48,Malaysia,Kuala lumpur,No,No,No,No,No,4.5,Yes,High,60000
+Iverson,Application Security Engineer,Information technology,Online,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,61000
+Iverson,Data Centre Expert,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,"91,000"
+Iverson,Hacking Forensic Investigator v10,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,98000
+Iverson,IoT Security Analyst,Information technology,Online,Advance,72,Malaysia,Kuala lumpur,No,No,No,No,No,4.5,Yes,High,92000
+Iverson,CompTIA Cybersecurity Analyst,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,59500
+Iverson,Data Protection and Management,Information technology,Online,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,75000
+Iverson,DevOps Engineering on AWS,Information technology,Online,Advance,72,Malaysia,Kuala lumpur,No,No,No,No,No,4.5,Yes,High,82000
+Iverson,IBM i System Administration,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,No,No,No,No,No,3.5,Yes,High,91500
+Iverson,Internet of Things Foundation,Information technology,Online,Beginner,48,Malaysia,Kuala lumpur,No,No,No,No,No,5,Yes,High,52000
+Iverson,Microsoft 365 Mobility and Security,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,No,No,No,No,No,3.5,Yes,High,50000
+Iverson,Licensed Penetration Tester,Information technology,Online,Advance,132,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,92000
+Trainocate,ITIL 4 Foundation,Information technology,Both,Beginner,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,50000
+Trainocate,Implementing and Administering Cisco Solutions v1.0,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,83000
+Trainocate,Professional Scrum Master Certification,Information technology,Both,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,53000
+Trainocate,Information System Security Professional Prep Course,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,75000
+Trainocate,Microsoft Power Automate RPA Developer,Information technology,Both,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,3.5,Yes,High,50000
+Trainocate,Networking in Google Cloud Platform,Information technology,Both,Advance,42,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,52000
+Trainocate,Information Systems Auditor,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,93000
+Trainocate,Developing Solutions for Microsoft Azure,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,58000
+Trainocate,Professional Agile Leadership ,Information technology,Both,Advance,48,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,55000
+Trainocate,Professional Scrum Product Owner,Information technology,Both,Advance,48,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,50000
+Trainocate,Cloud Machine Learning and AI,Information technology,Both,Advance,48,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,42000
+Trainocate,Enterprise Big Data Professional,Information technology,Both,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,75000
+Trainocate,Microsoft Power BI Data Analyst,Information technology,Both,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,35000
+Trainocate,Designing and Implementing Microsoft DevOps solutions,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,52000
+Trainocate,Microsoft Information Protection Administrator,Information technology,Both,Advance,48,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,28000
+Trainocate,Red Hat System Administration,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,60000
+Trainocate,Administering Windows Server Hybrid Core Infrastructure,Information technology,Both,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,3.5,Yes,High,50000
+Trainocate,Designing Cisco Enterprise Networks v1.1,Information technology,Both,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,36000
+Trainocate,Agile Project Management Foundation,Information technology,Both,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,50000
+Trainocate,Developing on AWS,Information technology,Both,Advance,72,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,45000
+mindasys,Android Security Essentials,Information technology,Online,Advance,48,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,30000
+mindasys,Linux System Engineer,Information technology,Online,Advance,192,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,93000
+mindasys,Administration of IBM WebSphere DataPower Gateway V7,Information technology,Online,Advance,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,90000
+mindasys,Oracle Big Data Fundamentals Ed 1,Information technology,Online,Beginner,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,52000
+mindasys,Crisis Communication Manager,Information technology,Online,Advance,50,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,3.5,Yes,High,61000
+mindasys,Networker Installation Configuration and Administration,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,3,Yes,High,90000
+mindasys,SAN Management,Information technology,Online,Advance,120,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4,Yes,High,98000
+mindasys,MySQL 5.7 for Database Administrators,Information technology,Online,Intermediate,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,58000
+mindasys,MySQL 8.0 Fundamentals,Information technology,Online,Beginner,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,4.5,Yes,High,52000
+mindasys,PHP Security,Information technology,Online,Intermediate,96,Malaysia,Kuala lumpur,Yes,No,Yes,No,No,5,Yes,High,48000
+TalentSprint,Data Science,IT,Both,Beginner,180,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,95000
+FITA Academy,Python with ML,Data Science,Both,Beginner,120,India,Chennai,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,30000
+Softlogic Systems,Data Science with ML,IT,Both,Intermediate,120,India,Chennai,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,32000
+Datamites Global,Data Science,Data Science,Online,Intermediate,400,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,58900
+Eduprajna,AWS,Cloud Computing,Online,Intermediate,150,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,Medium,25000
+Datamites Global,Visual Analytics Expert Training,Tableau,Offline,Intermediate,120,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,27455
+Credo Systemz,Big Data Hadoop Training,Data Science,Both,Intermediate,100,India,Chennai,Yes,Yes,Yes,Yes,Yes,4.9,Yes,High,28000
+Datamites Global,Data Science,Data Science,Offline,Intermediate,400,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,60900
+DeepNeuron,MSBI,Data Science,Both,Intermediate,80,India,Chennai,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,17000
+Scaler,Data Science with ML,Data Science,Online,Intermediate,520,India,Pune,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,250000
+Datamites Global,AI Engineer,Artificial Intelligence,Both,Intermediate,500,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,76900
+DeepNeuron,Full Stack Data Science Course,Data Science,Online,Beginner,66,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,41999
+Techsutra,Data Science,Data Science,Offline,Beginner,100,India,Mumbai,Yes,Yes,Yes,Yes,Yes,4,No,Medium,30000
+Cloud X lab,Python,Data Science,Both,Beginner,30,India,Bangalore,Yes,Yes,Yes,No,No,4.2,Yes,High,7000
+Data Gyan,Data analytics,Data Science,Both,Intermediate,150,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,Medium,30000
+Data Gyan,Data Science with ML,Data Science,Both,Intermediate,160,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,Medium,35000
+BEPEC,Data Science,Data Science,Both,Beginner,480,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,29599
+BEPEC,AI Engineer,Data Science,Both,Beginner,720,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,39599
+Excelr,Data Science,Data Science,Offline,Beginner,235,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,54999
+Excelr,Data Science,Data Science,Online,Beginner,235,India,Hyderabad,Yes,Yes,Yes,Yes,Yes,4.5,Yes,High,59999
+Datamites Global,Data Mining with Python,Data Science,Both,Intermediate,120,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.8,Yes,High,15000
+Naresh I technologies,Core Java,IT,Online,Beginner,60,India,Chennai,Yes,Yes,Yes,No,Yes,4,Yes,Medium,25000
+Naresh I technologies,Sales Force CRM training,IT,Online,Intermediate,60,India,Chennai,Yes,No,Yes,No,Yes,4,Yes,High,40000
+Naresh I technologies,C Programming,IT,Offline,Beginner,50,India,Chennai,Yes,No,Yes,No,No,4,Yes,High,20000
+Sipnatech,Sales Force,IT,Online,Beginner,20,India,Vijyawada,Yes,No,Yes,No,No,3.5,Yes,Low,10000
+Sipnatech,Azure Devops,IT,Online,Beginner,20,India,Vijyawada,Yes,No,Yes,No,No,4,Yes,Medium,10000
+Sipnatech,Testing Selenium,IT,Online,Beginner,20,India,Vijyawada,Yes,No,Yes,No,No,3.5,Yes,Medium,10000
+Codegnan,Web development with Python and Django,IT,Online,Beginner,40,India,Vijyawada,Yes,No,Yes,No,Yes,3.5,Yes,Medium,7000
+Codegnan,Machine learning with Python,Data science,Online,Beginner,60,India,Vijyawada,Yes,Yes,Yes,No,Yes,4,Yes,High,8500
+Codegnan,Python,IT,Offline,Beginner,16,India,Vijyawada,Yes,No,Yes,No,Yes,4,Yes,Medium,6000
+Palle Technologies,Python Full stack,IT,Both,Intermediate,330,India,Bangalore,Yes,Yes,Yes,No,Yes,4,Yes,Medium,35000
+Institute of Industrial Design,Automotive,Non IT,Offline,Intermediate,360,India,Bangalore,Yes,Yes,Yes,Yes,Yes,4.6,Yes,High,124000
+Basent Technology,AWS Devops and Lunix,IT,Both,Beginner,250,India,Bangalore,Yes,Yes,Yes,No,No,4,Yes,High,30000
+Data Pro,Python,IT,Offline,Beginner,60,India,vishakapatnam,Yes,Yes,Yes,Yes,Yes,3.8,Yes,Medium,15000
+Data Pro,Full Stack Java,IT,Offline,Beginner,540,India,vishakapatnam,Yes,Yes,Yes,Yes,Yes,4.3,No,High,45000
+gnana IT Solutions,SQL Oracel and PLSQL,IT,Offline,Beginner,90,India,vishakapatnam,Yes,Yes,Yes,No,No,4,Yes,Medium,15000
+Pace Institute,Auto Cad,Non IT,Offline,Beginner,45,India,Kakinada,Yes,Yes,Yes,No,No,4,No,High,3500
+Pace Institute,C Programming,IT,Offline,Beginner,45,India,Kakinada,Yes,No,Yes,No,No,4.2,No,High,3500
+Shri Shiridi sai institute,Data Science,IT,Online,Advance,60,India,vishakapatnam,Yes,Yes,Yes,Yes,Yes,4.2,Yes,High,50000
+Pinnacle,Auto Cad,Non IT,Offline,Advance,150,India,vishakapatnam,Yes,Yes,Yes,No,No,3.5,No,Medium,8000
+Pinnacle,3D designing,Non IT,Offline,Beginner,60,India,vishakapatnam,No,No,No,No,No,4,No,Medium,9000
+Qspiders,Java,Non IT,Offline,Beginner,350,India,Bangalore,Yes,Yes,Yes,No,Yes,3.5,No,High,33000
+Dreams Media solutions,Dot net developer,IT,Offline,Intermediate,20,India,Hyderabad,Yes,Yes,Yes,No,Yes,4,No,Medium,40000
+Lucid IT Training,Python,IT,Both,Intermediate,30,India,Hyderabad,Yes,Yes,Yes,No,Yes,4.2,Yes,High,40000
+Sulekha Institute,Python,IT,Both,Beginner,20,India,Hyderabad,Yes,Yes,Yes,No,Yes,4.1,Yes,High,40000
+Sandsys Institute,Python,IT,Both,Beginner,20,India,Hyderabad,Yes,Yes,Yes,No,Yes,4.1,Yes,High,40000
+SV Trainings,Python,IT,Both,Beginner,20,India,Hyderabad,Yes,Yes,Yes,No,Yes,4.1,Yes,High,40000
+Simplilearn,Data Science,IT,Online,Beginner,6,india,bangalore,Yes,Yes,Yes,Yes,Yes,4.5,Yes,Low,10000
+Alison,Python,IT,Online,Beginner,4,ireland,galway,Yes,Yes,Yes,No,No,4.1,No,High,5000
+Udemy,Java Full Stack,IT,Online,Advance,12,united states,San Francisco,Yes,Yes,No,Yes,No,4.8,Yes,High,5000
+Coursera ,C Programming,IT,Online,Beginner,6,united states,california,Yes,Yes,No,Yes,Yes,3.9,Yes,Medium,5000
+ELearn InfoTech,Python with Django course,IT,Both,Intermediate,60,India,Hyderabad,Yes,Yes,Yes,No,Yes,4,Yes,High,40000
+Livewire Institite,Data Science,DataScience,Offline,Beginner,60,India,Madurai,Yes,No,Yes,No,No,3.5,No,Medium,17000
+Livewire Institite,Python,IT,Offline,Intermediate,60,India,Madurai,Yes,No,Yes,No,No,3.7,No,Medium,12500
+Livewire Institite,SQL,IT,Offline,Intermediate,80,India,Madurai,Yes,No,Yes,No,No,3.2,No,Medium,9000
+ACE,C Programming,IT,Offline,Intermediate,40,India,Madurai,Yes,No,No,No,No,3.1,No,Medium,7900
+ACE,Java,IT,Offline,Intermediate,50,India,Madurai,Yes,No,No,Yes,No,3.5,No,Medium,8000
+Simplilearn,PowerBI,DataScience,Online,Advance,24,India,Chennai,No,No,Yes,No,No,4.1,Yes,High,22500
+ISC,CISSP,IT,Online,Advance,15,India,Chennai,No,No,Yes,No,No,4,Yes,High,100000
+cisco,CCNA,Networking,Online,Advance,10,India,Madurai,No,No,Yes,No,No,4,Yes,High,22000
+besant technologies,Web Design,IT,Online,Advance,90,India,Chennai,Yes,No,Yes,Yes,Yes,4.3,Yes,High,24999
+,,,,,,,,,,,,,,,,
+Coursera ,Data Science,IBM data science course certificate,Online,Beginner,8030,india,,Yes,Yes,Yes,No,No,4.6,Yes,High,0
+Coursera ,Data analytics,IBM data analyst professional certificate,Online,Beginner,8030,india,,Yes,Yes,Yes,No,No,4.6,Yes,High,0
+Great Learning,master machine learning in python,machine learning,Online,Advance,13,india,Chennai,Yes,Yes,Yes,No,No,NA,Yes,High,8000
+IBM,Data Science,data science ML,Online,Beginner,40,india,Chennai,Yes,Yes,Yes,No,Yes,4.6,Yes,High,5935
+Udemy,Python,python,Online,Beginner,14,india,,Yes,No,No,No,No,4.4,Yes,High,3399
+NIIT,full stack software engineering,software engineering,Online,Advance,3024,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,150000
+NIIT,Java developer program,software engineering,Online,Beginner,1176,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,50000
+NIIT,salesforce development,software engineering,Online,Advance,2016,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,109000
+NIIT,Data Science,data science,Online,Advance,1008,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,48000
+NIIT,full stack product engineering,software engineering,Online,Advance,3696,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,199999
+NIIT,full stack digital marketing programme,digital marketing,Online,Advance,3360,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,70000
+NIIT,game development course,emerging technologies,Online,Advance,3360,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,110000
+Simplilearn,Data Science,data science,Online,Advance,4380,,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,198004
+360DigiTMG,Data Mining with Python,data science and business intelligence,Online,Beginner,40,india,hyderabad,Yes,Yes,Yes,Yes,Yes,5,Yes,High,12000
+360DigiTMG,Data analytics,data science and business intelligence,Online,Intermediate,132,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,
+360DigiTMG,Data Science,data science and business intelligence,Online,Intermediate,184,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,28000
+360DigiTMG,Data Science and AI,data science and business intelligence,Online,Advance,300,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,69620
+360DigiTMG,data engineering,data science and business intelligence,Online,Advance,40,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,25000
+360DigiTMG,data visualization using tableau,data science and business intelligence,Online,Advance,30,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,17700
+360DigiTMG,core python,data science and business intelligence,Online,Advance,40,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,17700
+360DigiTMG,data visualization using Power BI training,data science and business intelligence,Online,Advance,30,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,15000
+360DigiTMG,executive programme in full stack data science,data science and business intelligence,Online,Advance,290,india,,Yes,Yes,Yes,Yes,Yes,NA,Yes,High,
+360DigiTMG,Artificial Intelligence,AI and Deep Learning,Online,Advance,80,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,47200
+360DigiTMG,machine learning on AWS sagemaker,ML on cloud,Online,Advance,24,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,28320
+360DigiTMG,machine learning on azure,ML on cloud,Online,Advance,24,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,28320
+360DigiTMG,machine learning on GCP,ML on cloud,Online,Advance,24,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,28320
+360DigiTMG,ML on cloud & auto ML,ML on cloud,Online,Advance,24,india,,Yes,Yes,Yes,Yes,Yes,5,Yes,High,28320
+Great Learning,Java,java,Online,Beginner,2,india,,No,No,No,No,No,4.46,No,Medium,0
+Great Learning,front end development HTML,HTML,Online,Beginner,2,india,,No,No,No,No,No,4.49,No,Medium,0
+Edureka,angular,frontend development,Online,Intermediate,36,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,17995
+Edureka,react js ,frontend development,Online,Intermediate,30,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,16015
+Edureka,Java,frontend development,Online,Intermediate,15,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,8999
+Edureka,jquery,frontend development,Online,Intermediate,15,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,8999
+Edureka,HTML,frontend development,Online,Beginner,10,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,4499
+Edureka,CSS,frontend development,Online,Beginner,10,india,,Yes,Yes,Yes,Yes,No,5,Yes,Medium,4499
+Edureka,Data Science,data science,Online,Advance,36,india,,Yes,No,No,No,No,NA,Yes,High,89999
+Edureka,Data analytics,data science,Online,Advance,30,india,,Yes,No,No,No,No,NA,Yes,High,59999
+Edureka,Python,data science,Online,Beginner,20,india,,Yes,No,No,No,No,NA,Yes,High,16015
+Edureka,reinforcement learning,data science,Online,Beginner,NA,india,,Yes,No,No,No,No,NA,Yes,High,6749
+Edureka,Machine Learning,artificial intelligence,Online,Intermediate,30,india,,Yes,No,No,No,No,NA,Yes,High,17995
+Edureka,Deep Learning,artificial intelligence,Online,Intermediate,30,india,,Yes,No,No,No,No,NA,Yes,High,17995
+Edureka,NLP with python,artificial intelligence,Online,Intermediate,18,india,,Yes,No,No,No,No,NA,Yes,High,16015
+Velocity,Data Science,python,Online,Intermediate,140,india,pune,Yes,Yes,Yes,No,Yes,4.6,Yes,Medium,44000
+Velocity,Hadoop,,Online,Intermediate,40,india,pune,Yes,Yes,Yes,No,Yes,4.6,Yes,Medium,35000
+Velocity,Software Testing,coding,Online,Beginner,120,india,pune,Yes,Yes,Yes,No,Yes,4.6,Yes,Medium,42000
+Velocity,Software Development,coding,Online,Advance,160,india,pune,Yes,Yes,Yes,No,Yes,4.6,Yes,High,46000
+newsion,Software Testing,manual testing,Online,Beginner,40,india,pune,Yes,Yes,Yes,No,No,3.8,Yes,Medium,25000
+fabtech,Software Development,coding,Offline,Advance,150,india,pune,Yes,Yes,Yes,No,Yes,4.8,No,Medium,72000
+Qspiders,Software Testing,coding,Offline,Intermediate,120,india,pune,Yes,Yes,Yes,No,Yes,4.5,No,Medium,36000
+Qspiders,Software Development,coding,Offline,Intermediate,140,india,pune,Yes,Yes,Yes,No,Yes,4.5,No,Medium,45000
+Velocity,Tableau,anlytics,Online,Intermediate,30,india,pune,Yes,Yes,Yes,No,No,4,Yes,Medium,35000
+Diksha,Catia 3Dmax and Creo,designing,Online,Advance,180,india,pune,Yes,Yes,Yes,No,Yes,4.3,No,High,80000
+rahitech,networking,IT,Online,Beginner,50,india,pune,Yes,Yes,Yes,No,Yes,3.5,Yes,Low,50000
+Diksha,Autocad Catia and Ansys,designing,Online,Advance,180,india,pune,Yes,Yes,Yes,No,Yes,4.3,No,High,80000
+Diksha,Mastercam crio and 3Dmax,designing,Online,Advance,180,india,pune,Yes,Yes,Yes,No,Yes,4.3,No,High,80000
+rahitech,Dot net developer,coding,Online,Intermediate,180,india,pune,Yes,Yes,Yes,No,Yes,3.8,Yes,Medium,60000
+Diksha,Ansys catia and creo,designing,Online,Advance,180,india,pune,Yes,Yes,Yes,No,Yes,4.3,No,High,80000
