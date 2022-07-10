@@ -26,7 +26,7 @@ def main():
                                   [10, 15, 20, 30, 40, 50, 60, 90, 100, 120, 130, 140, 150, 160, 180, 200, 210, 250,
                                    280])
     Trainer_Grade = st.selectbox('Trainers Grade', ['Low', 'Medium', 'High'])
-    Country = st.selectbox('Country', ['India','USA','UK','Malaysia','Ireland','Australia']
+    Country = st.selectbox('Country', ['India','USA','UK','Malaysia','Ireland','Australia'])
     City = st.selectbox('City', df['City'].unique())
     Certification_provided = st.selectbox('Certification_provided', ['Yes', 'No'])
     Practice_Assignments = st.selectbox('Practice Assignments', ['Yes', 'No'])
